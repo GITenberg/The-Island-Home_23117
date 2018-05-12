@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '25688'
     url: http://www.gutenberg.org/2009/agents/25688
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23117#The-Island-Home
 gutenberg_issued: '2007-10-20'
 gutenberg_type: Text
 identifiers:
